@@ -1,0 +1,17 @@
+h1{
+    color : rgb(255, 255, 254)
+}
+h3{
+    color : rgb(255, 255, 254)
+}
+a{
+    color : rgb(255, 255, 254)
+}
+
+.Header{background: #000; display:flex; justify-content: space-around;}
+.Subtitle{background-color: #000; display: flex;}
+.Only{background: #000; display : flex; justify-content: flex-end;}
+.Images{display: flex; flex-wrap: wrap; justify-content: space-evenly;}
+.Social_media{display: flex; justify-content: flex-end;}
+
+p,h3{text-align: center;}
